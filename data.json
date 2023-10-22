@@ -50,5 +50,57 @@
             "titulo": "Historia de un matrimonio",
             "poster": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"
         }
+    ],
+    "tendencias": [
+        {
+            "id": 11,
+            "titulo": "Mujercitas",
+            "poster": "https://www.sonypictures.es/sites/default/files/2020-07/littlewomen-keyart.jpg"
+        },
+        {
+            "id": 12,
+            "titulo": "Parásitos",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+        },
+        {
+            "id": 13,
+            "titulo": "Knives Out: Entre navajas y secretos",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg"
+        },
+        {
+            "id": 14,
+            "titulo": "Mi nombre es Dolemite",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "id": 15,
+            "titulo": "Avengers: Endgame",
+            "poster": "https://elcomercio.pe/resizer/-0GEOEBlpYHiIEdIKgMug5VHvQk=/620x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OWEUG3RLYNCKNKMWHOQ3ZXNDKM.jpg"
+        },
+        {
+            "id": 16,
+            "titulo": "Matilda",
+            "poster": "https://i.etsystatic.com/41088122/r/il/441b6f/4841837331/il_1588xN.4841837331_je2u.jpg"
+        },
+        {
+            "id": 17,
+            "titulo": "El club de la pelea",
+            "poster": "https://www.themoviedb.org/t/p/original/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg"
+        },
+        {
+            "id": 18,
+            "titulo": "El viaje de Chihiro",
+            "poster": "https://img.ecartelera.com/noticias/fotos/54600/54640/1.jpg",
+        },
+        {
+            "id": 19,
+            "titulo": "La vida es bella",
+            "poster": "https://www.ecartelera.com/carteles/2600/2611/002.jpg"
+        },
+        {
+            "id": 20,
+            "titulo": "Matrix",
+            "poster": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_SL1000_.jpg"
+        }
     ]
 }

@@ -1,5 +1,5 @@
 export const getMovies = async () => {
-    const response = await fetch('https://gist.githubusercontent.com/Urdzik/de477f8e3d7baf4366c9d797cfe63531/raw/38c6afa2937ef222323392cc34c8c8c77e02fc40/Movie.json');
+    const response = await fetch('https://raw.githubusercontent.com/JonatanOrdonez/netflix/main/data.json');
     const movies = await response.json();
     return movies;
 }
@@ -7,13 +7,11 @@ export const getMovies = async () => {
 export class Pelicula {
     id = "";
     titulo = "";
-    descripcion = "";
     image = "";
 
-    constructor(id, titulo, descripcion, image) {
+    constructor(id, titulo, image) {
         this.id = id;
         this.titulo = titulo;
-        this.descripcion = descripcion;
         this.image = image;
     }
 
