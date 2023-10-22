@@ -51,7 +51,7 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"
         }
     ],
-    "tendencias": [
+    "populares": [
         {
             "id": 11,
             "titulo": "Mujercitas",
@@ -90,7 +90,7 @@
         {
             "id": 18,
             "titulo": "El viaje de Chihiro",
-            "poster": "https://img.ecartelera.com/noticias/fotos/54600/54640/1.jpg",
+            "poster": "https://img.ecartelera.com/noticias/fotos/54600/54640/1.jpg"
         },
         {
             "id": 19,

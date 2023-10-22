@@ -11,10 +11,10 @@ const render = async () => {
         recomendadas.appendChild(pelicula.render());
     }
 
-    // for (const popular of peliculasPopulares) {
-    //     const pelicula = new Pelicula(popular.imdbID, popular.Title, popular.Plot, popular.Poster);
-    //     populares.appendChild(pelicula.render());
-    // }
+    for (const recomendad of movies.populares) {
+        const pelicula = new Pelicula(recomendad.id, recomendad.titulo, recomendad.poster);
+        populares.appendChild(pelicula.render());
+    }
 }
 
 window.onload = render;
